@@ -1,0 +1,35 @@
+*   fa3d2fe Merge branch 'main' of https://github.com/Ssah1023/Curso-GitHs
+|\  
+| * 15fc6e8 Agregando estaciones del año y ordenando listas
+* | cc481e7 Agregando 2 parrafo
+|/  
+*   ae301cd Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 75fd56d Agregando index.js al index.html
+* | e84817c Agregando style.css al index.html
+* | a2f0d91 Cambie el nombre de styles a style
+* | bb809c5 link de ccs a index.html
+* |   711240d Merge branch 'js'
+|\ \  
+| * | 163db3b Creando index.js
+* | |   a6bfbf5 Merge branch 'css'
+|\ \ \  
+| * | | 2e5b01b Creando style.ccs
+| | |/  
+| |/|   
+* | | 1dc7578 Merge branch 'html'
+|\| | 
+| * | c075101 Creando index-html
+| |/  
+* / 2c71bcf Borrando carpeta Curso-GitHs
+|/  
+* 36b838b Ingnorando archivos .exe
+* 7a3f4a1 Creando lincencia del repositorio
+* b62ab5e Eliminacion de clonacion
+* bcf7648 Se hace un agregado mas al readme
+* 928d50c Se hace un agrgado al comit el primero de julio del 2024
+* 96b7e98 Agregando mas contenido al Readme con usuario distinto
+* 8522d1b Agregando mas contenido al Readme segunda parte
+* 57be487 Agregando mas contenido al Readme
+* 4676668 agregando contenido inicial al README
+* 7431100  Mi primer comit

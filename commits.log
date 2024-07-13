@@ -1,0 +1,154 @@
+commit fa3d2fe507cec886e128ead6e9a435a6e2b0de68
+Merge: cc481e7 15fc6e8
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Sat Jul 13 12:11:09 2024 -0600
+
+    Merge branch 'main' of https://github.com/Ssah1023/Curso-GitHs
+
+commit cc481e7574222faba89f3397af886f305fa797aa
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Fri Jul 12 23:10:14 2024 -0600
+
+    Agregando 2 parrafo
+
+commit 15fc6e82b5b03fa3064c8f82783a6ffe3ea1fc83
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Fri Jul 12 23:10:14 2024 -0600
+
+    Agregando estaciones del año y ordenando listas
+
+commit ae301cdd635f72eceb4c558d85534a6fa202cbf8
+Merge: e84817c 75fd56d
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Sun Jul 7 01:59:46 2024 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 75fd56d0c93cdb8181082a1940bdc12a166e4dd4
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Sun Jul 7 01:52:48 2024 -0600
+
+    Agregando index.js al index.html
+
+commit e84817cf1a5ee8a4b8091a69cfea41b361591cb9
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Sun Jul 7 01:48:35 2024 -0600
+
+    Agregando style.css al index.html
+
+commit a2f0d9175ca30b27fa08f93659b3dff20f05d3c0
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Sat Jul 6 22:09:39 2024 -0600
+
+    Cambie el nombre de styles a style
+
+commit bb809c5f1fd8d4bddacd28a0428f24afd7b74c3c
+Author: ssah1023 <henry.santos@unah.hn>
+Date:   Sat Jul 6 03:37:38 2024 -0600
+
+    link de ccs a index.html
+
+commit 711240d9ca8645456142d8c73f5d734a630452ea
+Merge: a6bfbf5 163db3b
+Author: ssah1023 <henry.santos@unah.hn>
+Date:   Sat Jul 6 03:34:20 2024 -0600
+
+    Merge branch 'js'
+
+commit a6bfbf5922deb632806382d1e427a26da77fbc23
+Merge: 1dc7578 2e5b01b
+Author: ssah1023 <henry.santos@unah.hn>
+Date:   Sat Jul 6 03:34:06 2024 -0600
+
+    Merge branch 'css'
+
+commit 1dc7578d397042c4b8bc177a73fc2ba4b8d466b9
+Merge: 2c71bcf c075101
+Author: ssah1023 <henry.santos@unah.hn>
+Date:   Sat Jul 6 03:33:43 2024 -0600
+
+    Merge branch 'html'
+
+commit 2c71bcf66aa30b0fddd7fb5f4e76dd57a07b3740
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Sat Jul 6 03:19:51 2024 -0600
+
+    Borrando carpeta Curso-GitHs
+
+commit 163db3bb288f4f6f7fdfd134ffd3175dbb0e0cf8
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Sat Jul 6 03:08:49 2024 -0600
+
+    Creando index.js
+
+commit 2e5b01bd0e67380d9860f195262eae4d584b5e8e
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Sat Jul 6 03:01:17 2024 -0600
+
+    Creando style.ccs
+
+commit c075101fc74340aa3e87030324aba6e1b79a442c
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Sat Jul 6 02:55:04 2024 -0600
+
+    Creando index-html
+
+commit 36b838bed41d10c52b607f6245fb8b7424107779
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Fri Jul 5 01:23:36 2024 -0600
+
+    Ingnorando archivos .exe
+
+commit 7a3f4a1253744d0caeb25f001f86df212ec9e985
+Author: Henry Antonio Santos <126203982+Ssah1023@users.noreply.github.com>
+Date:   Fri Jul 5 00:14:33 2024 -0600
+
+    Creando lincencia del repositorio
+
+commit b62ab5eff634ec1119ac6a3edea743f582b0629b
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Fri Jul 5 00:02:35 2024 -0600
+
+    Eliminacion de clonacion
+
+commit bcf7648d45a7f8148c366699deb4496410da04b0
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Mon Jul 1 21:28:30 2024 -0600
+
+    Se hace un agregado mas al readme
+
+commit 928d50c349f3ba69630ece2b2be574bbaac1a7f7
+Author: Ssah1023 <henry.santos@unah.hn>
+Date:   Mon Jul 1 20:05:58 2024 -0600
+
+    Se hace un agrgado al comit el primero de julio del 2024
+
+commit 96b7e9805fbddfb9f42a37c30dd79839cd1a6fc2
+Author: ssah1023 <henry.santos@unah.hn>
+Date:   Sun Jun 30 15:30:42 2024 -0600
+
+    Agregando mas contenido al Readme con usuario distinto
+
+commit 8522d1bfea94e0bdd68f704b4d18d3edb99f7be0
+Author: Ssah1023 <hass09santos@gmail.com>
+Date:   Sun Jun 30 03:59:11 2024 -0600
+
+    Agregando mas contenido al Readme segunda parte
+
+commit 57be487e93505442c3a87c90f92eeab869905af6
+Author: Ssah1023 <hass09santos@gmail.com>
+Date:   Sun Jun 30 03:52:30 2024 -0600
+
+    Agregando mas contenido al Readme
+
+commit 467666853501bc00f836e136853e08d0d285ca93
+Author: Ssah1023 <hass09santos@gmail.com>
+Date:   Sun Jun 30 02:45:51 2024 -0600
+
+    agregando contenido inicial al README
+
+commit 74311009e5b2b10c503a641056e6620dbb5d6fdb
+Author: ssah1023 <hass09santos@gmail.com>
+Date:   Sun Jun 30 02:29:49 2024 -0600
+
+     Mi primer comit
