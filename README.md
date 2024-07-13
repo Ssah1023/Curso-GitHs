@@ -5,3 +5,5 @@ Accediendo con usuario henry.santos, Nueva modifiacacion al Readme
 Otra vez modificando el readme.
 
 ### Eliminacion de codigo clonado
+
+Este commit es para oficializar nuestra version **1.0.0**
