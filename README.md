@@ -4,6 +4,8 @@ Hola soy Henry Antonio Santos , probando funciones, Agregando mas contenido , ma
 Accediendo con usuario henry.santos, Nueva modifiacacion al Readme
 Otra vez modificando el readme.
 
-### Eliminacion de codigo clonado
+¿Quieres dominar el uso de _Git_?
 
-Este commit es para oficializar nuestra version **1.0.0**
+mira este enlace[](https://github.com/jonmircha/youtube-git).
+
+![Flujo de Git](git-flow.png)
